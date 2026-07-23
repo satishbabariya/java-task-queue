@@ -22,7 +22,7 @@
         <logback.version>1.4.12</logback.version>
         <junit.version>5.10.0</junit.version>
         <mockito.version>5.6.0</mockito.version>
-        <jackson.version>2.15.2</jackson.version>
+        <jackson.version>2.18.9</jackson.version>
         <cron4j.version>2.2.5</cron4j.version>
         <micrometer.version>1.11.5</micrometer.version>
     </properties>
